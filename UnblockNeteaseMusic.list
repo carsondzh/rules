@@ -1,9 +1,15 @@
-DOMAIN,apm.music.163.com,🙈 网易云音乐
-DOMAIN,apm3.music.163.com,🙈 网易云音乐
-DOMAIN,interface.music.163.com,🙈 网易云音乐
-DOMAIN,interface3.music.163.com,🙈 网易云音乐
-DOMAIN,music.126.net,🙈 网易云音乐
-DOMAIN,music.163.com,🙈 网易云音乐
+user-agent, NeteaseMusic*, 🙈 网易云音乐
+user-agent, NeteaseMusic**, 🙈 网易云音乐
+user-agent, 网易云音乐*, 🙈 网易云音乐
+user-agent, 网易云音乐**, 🙈 网易云音乐
+user-agent, %E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*, 🙈 网易云音乐
+user-agent, %E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90**, 🙈 网易云音乐
+
+host-suffix,music.163.com,🙈 网易云音乐
+host-suffix,interface.music.163.com,🙈 网易云音乐
+host-suffix,interface3.music.163.com,🙈 网易云音乐
+host-suffix,apm.music.163.com,🙈 网易云音乐
+host-suffix,apm3.music.163.com,🙈 网易云音
 IP-CIDR,101.71.154.241/32,🙈 网易云音乐
 IP-CIDR,103.126.92.132/32,🙈 网易云音乐
 IP-CIDR,103.126.92.133/32,🙈 网易云音乐
